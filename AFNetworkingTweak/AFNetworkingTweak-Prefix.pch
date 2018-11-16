@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AFNetworkingTweak' target in the 'AFNetworkingTweak' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
